@@ -56,11 +56,30 @@ p {
 .prep-time ul {
     padding: 0px 20px;
    
-    
 }
 
 .prep-time ul li{
     padding-left: 18px;
     margin: 15px 0px;
+    color: rgb(60, 53, 60);
+}
+
+.ingredients {
+    margin-top: 20px;
+    border-bottom: solid 1px rgb(120, 105, 105);
+}
+
+.ingredients h2 {
+    color: rgb(135, 101, 76);
+}
+
+.ingredients ul {
+    padding: 0px 20px;
+    padding-bottom: 15px;
+}
+
+.ingredients ul li {
+    padding-left: 18px;
+    margin: 10px 0px;
     color: rgb(60, 53, 60);
 }
