@@ -83,3 +83,24 @@ p {
     margin: 10px 0px;
     color: rgb(60, 53, 60);
 }
+
+.instructions {
+    margin-top: 20px;
+    border-bottom: solid 1px rgb(120, 105, 105);
+}
+
+.instructions h2 {
+    margin-bottom: 15px;
+    color: rgb(135, 101, 76);
+}
+
+.instructions ol {
+    padding: 0px 20px;
+    padding-bottom: 15px;
+}
+
+.instructions ol li {
+    padding-left: 18px;
+    margin: 10px 0px;
+    color: rgb(60, 53, 60);
+}
