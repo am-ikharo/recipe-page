@@ -97,10 +97,39 @@ p {
 .instructions ol {
     padding: 0px 20px;
     padding-bottom: 15px;
+    color: rgb(60, 53, 60);
 }
 
 .instructions ol li {
     padding-left: 18px;
     margin: 10px 0px;
+    color: rgb(86, 73, 86);
+}
+
+
+.nutrition {
+    margin-top: 20px;
+    border-bottom: solid 1px rgb(120, 105, 105);
+}
+
+.nutrition h2 {
+    margin-bottom: 15px;
+    color: rgb(135, 101, 76);
+}
+
+.nutrition p {
+    margin-bottom: 15px;
     color: rgb(60, 53, 60);
+}
+
+.nutrition ol {
+    padding: 0px 20px;
+    padding-bottom: 15px;
+    color: rgb(60, 53, 60);
+}
+
+.nutrition ol li {
+    padding-left: 18px;
+    margin: 10px 0px;
+    color: rgb(86, 73, 86);
 }
