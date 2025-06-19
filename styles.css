@@ -122,14 +122,20 @@ p {
     color: rgb(60, 53, 60);
 }
 
-.nutrition ol {
+.nutrition table tr {
     padding: 0px 20px;
     padding-bottom: 15px;
     color: rgb(60, 53, 60);
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: solid 1px black;
 }
 
-.nutrition ol li {
+.nutrition table tr td {
     padding-left: 18px;
+    justify-content: space-around;
+    align-items: center;
     margin: 10px 0px;
     color: rgb(86, 73, 86);
+
 }
